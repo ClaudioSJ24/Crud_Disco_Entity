@@ -1,0 +1,12 @@
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\Logic\bin\Release\Logic.dll
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\Logic\bin\Release\Logic.pdb
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\Logic\bin\Release\DatAccess.dll
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\Logic\bin\Release\EntityFramework.dll
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\Logic\bin\Release\DatAccess.pdb
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\Logic\bin\Release\DatAccess.dll.config
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\Logic\bin\Release\EntityFramework.xml
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\Logic\obj\Release\Logic.csprojAssemblyReference.cache
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\Logic\obj\Release\Logic.csproj.CoreCompileInputs.cache
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\Logic\obj\Release\Logic.csproj.CopyComplete
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\Logic\obj\Release\Logic.dll
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\Logic\obj\Release\Logic.pdb

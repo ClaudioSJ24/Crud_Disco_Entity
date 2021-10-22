@@ -1,0 +1,10 @@
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\DatAccess\bin\Debug\DatAccess.dll.config
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\DatAccess\bin\Debug\DatAccess.dll
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\DatAccess\bin\Debug\DatAccess.pdb
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\DatAccess\bin\Debug\EntityFramework.dll
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\DatAccess\bin\Debug\EntityFramework.xml
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\DatAccess\obj\Debug\DatAccess.csprojAssemblyReference.cache
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\DatAccess\obj\Debug\DatAccess.csproj.CoreCompileInputs.cache
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\DatAccess\obj\Debug\DatAccess.csproj.CopyComplete
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\DatAccess\obj\Debug\DatAccess.dll
+J:\Desk\Programación Web II\VisualEstudio\CrudDiscoEntity\DatAccess\obj\Debug\DatAccess.pdb
